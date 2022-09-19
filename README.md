@@ -1,2 +1,2 @@
-# jdk-new-features
-JDK New Features
+# JDK New Features
+
