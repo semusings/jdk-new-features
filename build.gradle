@@ -19,7 +19,7 @@ check {
 }
 
 allprojects {
-	group "io.github.unlockprogramming"
+	group "com.unlockprogramming"
 
 	repositories {
 		mavenCentral()
