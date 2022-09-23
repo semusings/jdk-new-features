@@ -4,7 +4,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.unlockprogramming</groupId>
 	<artifactId>jdk-new-features</artifactId>
+	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+	<modules>
+		<module>jdk-19</module>
+		<module>jdk-20</module>
+		<module>jdk-18</module>
+	</modules>
 	<name>jdk-new-features</name>
 	<properties>
 		<java.version>19</java.version>
