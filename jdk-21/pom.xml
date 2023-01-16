@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>jdk-18</artifactId>
+    <artifactId>jdk-21</artifactId>
 
     <properties>
-        <java.version>18</java.version>
+        <java.version>19</java.version>
     </properties>
 
 </project>

@@ -7,9 +7,9 @@
 	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
+		<module>jdk-17</module>
 		<module>jdk-19</module>
-		<module>jdk-20</module>
-		<module>jdk-18</module>
+<!--		<module>jdk-21</module>-->
 	</modules>
 	<name>jdk-new-features</name>
 
